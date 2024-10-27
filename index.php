@@ -145,7 +145,28 @@ echo $toyota->get_name();
 
 <h2 style="color: blue;" align="“left”">Pertemuan-4 </h1>
 
-<h3 style="color: black;" align="“left”">.... </h1>
+<h3 style="color: black;" align="“left”">Konstruktor dan Destruktor </h1>
+<h4 style="color: black;" align="“left”">Konstruktor</h1> 
+
+<br>
+<?php
+
+//code here
+
+?>
+
+
+<h4 style="color: black;" align="“left”">Destruktor</h1> 
+
+<br>
+<?php
+
+//code here
+
+?>
+
+
+
 
   </body>
 </html>
