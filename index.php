@@ -166,6 +166,29 @@ echo $toyota->get_name();
 ?>
 
 
+<h2 style="color: blue;" align="“left”">Pertemuan-5 </h1>
+
+<h3 style="color: black;" align="“left”">Konstanta dan Abstrak </h1>
+<h4 style="color: black;" align="“left”">Konstanta</h1> 
+
+<br>
+<?php
+
+//code here
+
+?>
+
+
+<h4 style="color: black;" align="“left”">Abstrak</h1> 
+
+<br>
+<?php
+
+//code here
+
+?>
+
+
 
 
   </body>
