@@ -190,6 +190,17 @@ echo $toyota->get_name();
 
 
 
+<h2 style="color: blue;" align="“left”">Pertemuan-7 </h1>
+
+<h3 style="color: black;" align="“left”">Penjelasan Koding CRUD </h1>
+
+
+<br>
+
+
+
+
+
 
   </body>
 </html>
